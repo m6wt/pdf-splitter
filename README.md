@@ -38,7 +38,7 @@ If the selected PDF has 6 pages, the script creates:
 To clone this repository, use:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/pdf-splitter.git
+git clone https://github.com/m6wt/pdf-splitter.git
 cd pdf-splitter
 ```
 
